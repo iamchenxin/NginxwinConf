@@ -4,3 +4,6 @@
 !conf/nginx.conf
 !php/php.ini
 !site-enabled/*
+!LICENSE
+!README.md
+docs/
