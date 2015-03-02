@@ -1,0 +1,6 @@
+*/*
+*.*
+!.gitignore
+!conf/nginx.conf
+!php/php.ini
+!site-enabled/*
